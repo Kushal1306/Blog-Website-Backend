@@ -1,17 +1,13 @@
 # Blog-Website-Backend
+Designing and Implementing backend (Rest API's) For a Blog Application. Which includes implementing API Endpoints for signup,login,updating user account,fetching user profile, posting an articles, following & unfollowing the other users, fetching the blogs of users based on query parameters like following=true,sort etc. Few of the endpoints were authenticated using JWT Web Token. The next part would be to implement commenting on a post and liking a posts.
 
 ## Endpoints
 
-> HTTP Methods -> verb 
-> Entities/Resources -> noun 
-> 
-> GET         fetch/find/read
-> POST        create/submit
-> PUT         create (with id)/replace/overwrite
-> PATCH       update/modify existing 
-> DELETE      delete 
-> OPTIONS     find possible methods
-> HEAD
+** GET         fetch/find/read **
+** POST        create/submit **
+** PUT         create (with id)/replace/overwrite **
+** PATCH       update/modify existing **
+** DELETE      delete **
 
 ### Users
 
