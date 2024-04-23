@@ -3,11 +3,11 @@ Designing and Implementing backend (Rest API's) For a Blog Application. Which in
 
 ## Endpoints
 
-** GET         fetch/find/read **
-** POST        create/submit **
-** PUT         create (with id)/replace/overwrite **
-** PATCH       update/modify existing **
-** DELETE      delete **
+**GET         fetch/find/read**
+**POST        create/submit**
+**PUT         create (with id)/replace/overwrite**
+**PATCH       update/modify existing**
+**DELETE      delete**
 
 ### Users
 
